@@ -1,9 +1,12 @@
 # Data Scientist
 
-Welcome! I'm a Data Scientist with hands-on experience in model development, data pipeline optimization, and deep learning, currently working at **Toyota Financial Services**.
+Welcome! 
 
-I am deepening my expertise in machine learning and biostatistics through my **Master's in Biostatistics and Data Science** at a joint program with Karolinska Institutet, KTH Royal Institute of Technology, and Stockholm University. My background also includes a **BSc in Business Analytics** and a **BSc in European Law**, giving me a unique perspective on both the technical and regulatory aspects of data.
+I'm an early-career data analyst/scientist with a background in Business Analytics and a current M.Sc. in Biostatistics & Data Science (Stockholm).
 
+My focus is on statistical inference, deep learning, and responsible data practices. I recently interned at Statistics Netherlands (CBS), where I helped build an OCR pipeline and worked on noisy text classification, learning the trade-offs between accuracy, speed and maintainability.
+
+I'm proficient in Python, R, and SQL; can build dashboards in Power BI/Tableau; and I'm actively learning more about NLP, time series and deep learning. I'm seeking a junior role or internship where I can contribute and learn from an experienced team.
 ---
 
 ## 🛠️ Technical Skills
@@ -43,15 +46,18 @@ I am deepening my expertise in machine learning and biostatistics through my **M
 
 ## 💼 Work Experience
 
-### Data Scientist @ Toyota Financial Services
-*(June 2022 - Present)*
-* Uncovered and corrected a critical missing step in a production data pipeline, which impacted over **70% of active accounts**.
-* Redeveloped the primary loan originations model, resulting in a **50% improvement in model performance** and saving an estimated **$1 million** in potential losses.
+### Data Scientist - Internship @ Statistics Netherlands | CBS
+*(Jan 2025 - Jun 2025)* 
+* Designing and implementing an OCR data pipeline for receipt processing, enhancing text extraction accuracy and efficiency.
+* Evaluating the impact of OCR preprocessing techniques on classification performance, incorporating fastText embeddings and advanced feature engineering.
+* Developing deep learning models to classify receipt data, leveraging large language models (LLMs) to improve accuracy in noisy text environments.
 
-### Data Science Consultant @ Shawhin Talebi Ventures LLC
-*(December 2020 - Present)*
-* Conducted data collection, processing, and analysis for a novel study evaluating the impact of over 300 biometrics variables on human performance in live-fire training scenarios.
-* Applied **unsupervised deep learning** approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes.
+### Data Engineer - Internship @ Statistical Office in Szczecin
+*(Aug 2020)*
+* Completed professional training in Python, SQL, R, Transact-SQL, and Microsoft SQL Server.
+* Cleaned, processed, and analyzed large datasets, utilizing Python and SQL to ensure accuracy and quality of data.
+* Used Python libraries like BeautifulSoup and Scrapy to automate web scraping and collect real-time data.
+* Designed and implemented interactive data visualizations using libraries like Matplotlib and Seaborn.
 
 ---
 
@@ -61,13 +67,15 @@ I am deepening my expertise in machine learning and biostatistics through my **M
     * *Karolinska Institutet, KTH Royal Institute of Technology, Stockholm University (2025 - Present)*
 * **BSc in Business Analytics**
     * *Maastricht University (2021 - 2024)*
-* **BSc in European Law School**
+* **BSc in European Law School (Minor in Law and Technology)**
     * *Maastricht University (2022 - 2025)*
+* **Erasmus Exchange** 
+    * *KU Leuven (Sep 2023 - Feb 2024)* 
 
 ---
 
 ## 📫 Connect with Me
 
-* **LinkedIn:** [linkedin.com/in/your-username](https://www.linkedin.com/in/your-username)
-* **Email:** [your-email@example.com](mailto:your-email@example.com)
+* **LinkedIn:** [linkedin.com/in/mikolaj-rozkrut](www.linkedin.com/in/mikolaj-rozkrut)
+* **Email:** [mikolaj.rozkrut@gmail.com](mailto:mikolaj.rozkrut@gmail.com)
 
