@@ -2,11 +2,7 @@
 
 Welcome! 
 
-I'm an early-career data analyst/scientist with a background in Business Analytics and a current M.Sc. in Biostatistics & Data Science (Stockholm).
-
-My focus is on statistical inference, deep learning, and responsible data practices. I recently interned at Statistics Netherlands (CBS), where I helped build an OCR pipeline and worked on noisy text classification, learning the trade-offs between accuracy, speed and maintainability. 
-
-I'm proficient in Python, R, and SQL; can build dashboards in Power BI/Tableau; and I'm actively learning more about NLP, time series and deep learning. I'm seeking a junior role or internship where I can contribute and learn from an experienced team.
+I'm an early-career data analyst/scientist with a background in Business Analytics and a current M.Sc. in Biostatistics & Data Science (Stockholm). My focus is on statistical inference, deep learning, and responsible data practices. I recently interned at Statistics Netherlands (CBS), where I helped build an OCR pipeline and worked on noisy text classification, learning the trade-offs between accuracy, speed and maintainability. I'm proficient in Python, R, and SQL; can build dashboards in Power BI/Tableau; and I'm actively learning more about NLP, time series and deep learning. I'm seeking a junior role or internship where I can contribute and learn from an experienced team.
 
 ---
 
