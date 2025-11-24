@@ -21,21 +21,21 @@ I'm proficient in Python, R, and SQL; can build dashboards in Power BI/Tableau a
 ## 🚀 Featured Projects
 
 ### 🛒 Albert Heijn - Self-Scan Fraud Detection
-* **[Link to Repository](https://github.com/your-username/repo-name-here)**
+* **[Link to Repository](https://github.com/mikolaj-rozkrut/Self-Scan-Fraud-Detection/tree/main)**
 * Developed a system to detect fraudulent self-scan transactions, solving a severe class imbalance problem with a **custom Synthetic Fraud Generation** technique.
 * Built and evaluated models including `Logistic Regression`, `AdaBoost`, and an `LSTM` (Long Short-Term Memory) network.
 * The final solution was a sophisticated **Ensemble Model** that combined statistical and sequential deep learning approaches for high accuracy.
 * **Tech Stack:** `Python`, `Pandas`, `Scikit-learn`, `Keras`, `TensorFlow`, `Matplotlib`
 
 ### 📦 PostNL - Service Point Network Optimization
-* **[Link to Repository](https://github.com/your-username/repo-name-here)**
+* **[Link to Repository](https://github.com/mikolaj-rozkrut/Minimising-Costs-by-Improving-Service-Point-Locations)**
 * Optimized Post&L's service point network to reduce costs and carbon footprint using geospatial analysis and simulation.
 * Modeled the delivery network using `NetworkX` and implemented **Dijkstra's algorithm** to find shortest paths.
 * Used **Simulated Annealing** to design an optimal new network.
 * **Tech Stack:** `Python`, `Pandas`, `NetworkX`
 
 ### 🎵 SQL - Spotify Database & Analytics
-* **[Link to Repository](https://github.com/your-username/repo-name-here)**
+* **[Link to Repository](https://github.com/mikolaj-rozkrut/Spotify-SQL-Database)**
 * Designed a complete relational database schema (ERD) for a Spotify-like music service.
 * Wrote advanced `SQL` queries to simulate real-world business features:
     * **"Spotify Wrapped"**: Personalized user summaries.
