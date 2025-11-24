@@ -29,7 +29,7 @@ I'm proficient in Python, R, and SQL; can build dashboards in Power BI/Tableau a
 
 ### 📦 Service Point Network Optimization
 * **[Link to Repository](https://github.com/mikolaj-rozkrut/Minimising-Costs-by-Improving-Service-Point-Locations)**
-* Optimized Post&L's service point network to reduce costs and carbon footprint using geospatial analysis and simulation.
+* Optimized service point network to reduce costs and carbon footprint using geospatial analysis and simulation.
 * Modeled the delivery network using `NetworkX` and implemented **Dijkstra's algorithm** to find shortest paths.
 * Used **Simulated Annealing** to design an optimal new network.
 * **Tech Stack:** `Python`, `Pandas`, `NetworkX`
